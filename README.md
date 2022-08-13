@@ -15,34 +15,39 @@
 - ☕️ Come see my CI/CD [Projects on Azure DevOps!](https://dev.azure.com/HalimDevOpsPractice/DevOps%20Practices)
 
 <h2>👨‍💻 Review Projects code used on CI/CD:</h2>
-- :page_with_curl:	Simple bussiness logic api App End to End deployment. </br>
-- :page_with_curl:	Parts-Unlimted E-Commerce WebApp. </br>
+- https://raw.githubusercontent.com/AhalimZaki/AhalimZaki/main/develop.png	Simple bussiness logic api App End to End deployment. </br>
+- :page_with_curl:	Parts-Unlimted E-Commerce WebApp End to End deployment. </br>
 
 <br />
 <br />
 
-# ⚡ My Skills
+<h2> ⚡ My Skills</h2>
 
 <div align="center">
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AhalimZaki/AhalimZaki/main/devops-boards.png"></code>
+<code><img height="40" src="https://github.com/AhalimZaki/AhalimZaki/blob/main/devops-repos.png"></code>
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code><img height="40" src="https://github.com/AhalimZaki/AhalimZaki/blob/main/devops-pipelines.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AhalimZaki/AhalimZaki/main/devops-testplans.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AhalimZaki/AhalimZaki/main/devops-artifacts.png"></code>
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/windows/windows.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
 
 
 </div>
