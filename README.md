@@ -10,7 +10,6 @@
 - 🎓 I am a freelancer who love Technology and shifting to DevOps! 
 - 🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.
 - 💬 Ask me about anything, I will be happy to help.
-- ☕️ Come see my CI/CD [Projects on Azure DevOps!](https://dev.azure.com/HalimDevOpsPractice/DevOps%20Practices)
 
 
 ## 👨‍💻 Review DevOps E2E Projects :</h2>
