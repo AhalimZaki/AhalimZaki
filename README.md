@@ -13,9 +13,10 @@
 
 
 ## 👨‍💻 Review DevOps E2E Projects :</h2>
-- :page_with_curl: Simple bussiness logic api App E2E. </br>
-- :page_with_curl: Parts-Unlimted E-Commerce WebApp E2E.[Check it here](https://github.com/AhalimZaki/DevOps-Practices/blob/master/docs/PartsUnlimted.md) </br>
-
+- :page_with_curl: [Simple bussiness logic api App E2E](https://github.com/AhalimZaki/SimpleApi). </br>
+- :page_with_curl: [Parts-Unlimted E-Commerce WebApp E2E](https://github.com/AhalimZaki/Parts-Unlimted). </br>
+- :page_with_curl: [Simple Node App]()
+- :page_with_curl: [K8s Microservices Deployment]()
 <br />
 <br />
 
