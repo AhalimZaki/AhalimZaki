@@ -1,5 +1,5 @@
 <h1>Hi, I'm Abdelhalim! <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="500" height="320" />
+
 <a href="https://github.com/AhalimZaki">DevOps Engineer</a> 
  
 
