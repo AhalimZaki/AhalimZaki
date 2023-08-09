@@ -16,6 +16,7 @@
 - :page_with_curl: [Simple bussiness logic api App E2E](https://github.com/AhalimZaki/SimpleApi). </br>
 - :page_with_curl: [Parts-Unlimted E-Commerce WebApp E2E](https://github.com/AhalimZaki/Parts-Unlimted). </br>
 - :page_with_curl: [K8s Microservices Deployment](https://github.com/AhalimZaki/Online-Boutique-Microservices).
+- :page_with_curl: [DevSecOps-AAD](https://github.com/AhalimZaki/DevSecOps-AAD-Demo).
 <br />
 <br />
 
