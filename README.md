@@ -7,9 +7,9 @@
 
 <h2>About Me </h2>
 
-- 🎓 I am a freelancer who love Technology and shifting to DevOps! 
+- 🎓 I am a DevOps passionate! 
 - 🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.
-- 💬 Ask me about anything, I will be happy to help.
+- 💬 Ask me about anything, and I will be happy to help.
 
 
 ## 👨‍💻 Review DevOps E2E Projects :</h2>
